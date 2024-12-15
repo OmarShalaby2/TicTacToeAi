@@ -1,7 +1,7 @@
 import math
 import tkinter as tk
 from tkinter import messagebox
-from minimax_aphabeta import minimax, check_winner
+from algorithms import minimax, check_winner
 
 
 def best_move(board):
